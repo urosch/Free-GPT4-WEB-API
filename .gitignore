@@ -7,3 +7,5 @@
 out
 gen
 error.txt
+cookies.json
+docker-compose.yml
